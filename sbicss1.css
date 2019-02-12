@@ -1,0 +1,51 @@
+.wrapper{width:450px; height:800px; text-align:center;margin:0px 0px 0px 0px;}
+
+.header{width:450px; height:159px; text-align:center; margin:0px 0px 10px 0px;background-image:linear-gradient(orange,white,white, green);font-size: 22px;color:blue;font-weight: bold;}
+
+
+.contactimg{position:relative; left:25px; top:-30px}
+
+.section{width:450px; height:250px;background-color:powderblue; text-align:center;margin:-59px 0px 19px 0px;}
+
+.section h1{font-size:20px; color:white; text-transform: capitalize; text-shadow: 1px 1px red; font-weight: bold;}
+
+.img1 {
+    background-image: url("image1/back.png");
+    background-position: 7px 0px;
+    background-size: 45px;
+    background-repeat: repeat-x;
+    padding: 12px 20px 12px 40px;
+    font-size: 22px;
+    font-weight: bold;
+    color:purple;
+}
+
+.article{width:450px; height:176px; text-align:center;margin:0px 0px 48px 0px;background-color:powderblue; }
+
+.article h1{font-size:20px; color:white; text-transform: capitalize; text-shadow: 1px 1px red; font-weight: bold}
+
+.img2 {
+    background-image: url("image1/back.png");
+    background-position: 7px 5px;
+    background-size: 65px;
+    background-repeat: repeat-x;
+    padding: 12px 20px 12px 40px;
+    font-size: 18px;
+    font-weight: bold;
+    color: purple;
+}
+
+
+.feature{width:450px; height:117px; text-align:center; margin: -11px 0px 10px 0px;background-color: powderblue;}
+
+.column1, .column2, .column3,.column4 { background-color: #efefef; width: 100px; float: left; margin: 10px 0px 0px 10px; height: 60px;} 
+
+ .footer{
+    font-size: 22px;
+	text-align:center;
+    /*background-color:orange;*/
+    background-image: linear-gradient(orange, white, green);
+    width: 450px;
+    height: 120px;
+    margin: -13px 0px 0px 0px;
+}   
